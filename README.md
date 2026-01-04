@@ -63,15 +63,15 @@ A helper function that controls motor direction and speed based on the inputs fr
 <p>
   for line follower i have called only pid_control function.
 </p>
-<img src='Resource/Line-Follower-img.jpeg' style="height:300px; width: 400px;">
+<img src='https://github.com/Shivanand-0/Mesmerize_01/blob/main/Resource/Line-Follower-img.jpeg' style="height:300px; width: 400px;">
 <h4>1) Maze-Solver</h4>
 <p>
   for Maze-solver. i have used <b>SRB(Left-Straight-Right-Back) and RSLB(Right-Straight-Left-Back) priority Algorithm </b>
 </p>
-<img src='Resource/maze-Follower_img.png' style="height:300px; width: 400px;">
+<img src='https://github.com/Shivanand-0/Mesmerize_01/blob/main/Resource/maze-Follower_img.png' style="height:300px; width: 400px;">
 
 <h4>Meshmerize Bot</h4>
-<img src='Resource/meshmerize-bot-img.png' style="height:300px; width: 400px;">
+<img src='https://github.com/Shivanand-0/Mesmerize_01/blob/main/Resource/meshmerize-bot-img.png' style="height:300px; width: 400px;">
 
 
 </body>
